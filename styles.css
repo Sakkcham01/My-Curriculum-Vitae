@@ -1,0 +1,101 @@
+body{
+     text-align: center;
+     padding: 0;
+     margin:0;
+
+}
+.entry_div{
+  background-color: ;
+     background-color: #ff5722;
+     border-style: solid;
+
+
+}
+.title{
+    font-size: 70px;
+    padding: 30px;
+    font-family: Great Vibes;
+    color: black;
+}
+.entry-p{
+    font-size: 40px;
+    padding:0 0 50px 0;
+    font-family: Pacifico;
+    color: green;
+}
+.intro img{
+    width: 200px;
+    border-radius: 50%;
+}
+.intro h1{
+    font-family: Pacifico;
+    font-size: 50px;
+}
+.intro p{
+  font-family: Roboto:cursive;
+  font-size: 30px;
+  color: brown;
+}
+.intro{
+  background-color:#fff3cd;
+  border-style: solid;
+}
+.skills{
+  background-color: #99b898;
+  padding: 30px 200px;
+}
+.skills h1{
+  font-family: Great Vibes;
+  font-size: 50px;
+  color: black;
+}
+.skills img{
+  width: 300px;
+  border-radius: 50%;
+  float: left;
+  padding: 0 20px;
+}
+.skills h2{
+  font-family: Pacifico;
+  font-size: 40px;
+  color: red;
+}
+.skills h3{
+  font-family: Pacifico;
+  font-size: 40px;
+  color: red;
+}
+.skills p{
+  font-family: Roboto;
+  font-size: 30px;
+  color: yellow;
+}
+#touch{
+  background-color: #12cad6;
+  margin: 50px 0 0;
+}
+#touch h2{
+  font-family: Great Vibes;
+  font-size: 40px;
+  color: orange;
+}
+#contact{
+  padding: 50px 0 100px;
+  border-style: solid;
+  background-color: #c7e2b2;
+}
+#contact h2{
+  font-family: Pacifico;
+  font-size: 30px;
+  color: green;
+}
+.icon{
+  padding: 20px 20px 0 0;
+  width: 40px;
+  height: 40px;
+}
+hr{
+  border-width: 5px 0 0;
+  border-style: dotted;
+  width: 50px;
+}
